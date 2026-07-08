@@ -102,5 +102,7 @@ shards:
   description: Crystal wrapper for parsing .xlsx spreadsheets
 - github: yaml/yamlscript-crystal
   description: Add Logic to Your YAML Files
+- github: yaml/yamlstar-crystal
+  description: Common YAML framework for all programming languages
 - github: colstrom/zq
   description: Command-line ZPL processor
